@@ -1,0 +1,28 @@
+{
+  "uuid": "8d9a9341-0c3c-49ba-abaa-4bd46b8a55de",
+  "shortName": "Torch",
+  "longName": "Torch",
+  "companyName": "Rex McConnell",
+  "versionCode": 7,
+  "versionLabel": "2.0.6",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [{
+      "menuIcon": true,
+      "type": "png",
+      "name": "IMAGE_MENU_ICON",
+      "file": "images/menu_icon_torch.png"
+    },{
+      "type": "png",
+      "name": "ICON_LIGHT_BULB_ON",
+      "file": "images/light_bulb_on.png"
+    },{
+      "type": "png",
+      "name": "ICON_LIGHT_BULB_OFF",
+      "file": "images/light_bulb_off.png"
+    }]
+  }
+}

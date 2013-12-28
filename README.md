@@ -18,17 +18,21 @@ To build this watchapp from source. Follow these steps:
 
 1. Clone this repository in an appropriate directory. For example:
 
-    $ git clone https://github.com/rexmac/pebble-torch.git
+    `$ git clone https://github.com/rexmac/pebble-torch.git`
 
 2. Build the project:
 
-    $ pebble build
+    `$ pebble build`
 
 3. Install the compiled project to your Pebble:
 
-    $ pebble install --phone [your_phone_ip_here]
+    `$ pebble install --phone [your_phone_ip_here]`
 
 For more information on building and installing Pebble apps from source, please see the official [Getting Started](https://developer.getpebble.com/2/getting-started/) guide.
+
+## Bugs, Suggestions, Comments
+
+Please use the [Github issue system](https://github.com/rexmac/pebble-torch/issues) to report bugs, request new features, or ask questions.
 
 ## License
 

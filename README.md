@@ -10,7 +10,7 @@ Simple Pebble watchapp to toggle the screen's backlight for use as a torch/flash
 
 ## Install
 
-To install this watchapp onto your Pebble device using your phone's browser, go the [downloads page](http://github.com/rexmac/pebble-torch/releases) and click the green `pebble-torch.pbw` button. Your phone should download and automatically install the file into your phone's Pebble app (or it may prompt you for which app to use to open the file, in which case you should select the Pebble app). You can then use the Pebble app on your phone to install the watchapp to your Pebble watch.
+To install this watchapp onto your Pebble device using your phone's browser, go to the [downloads page](http://github.com/rexmac/pebble-torch/releases) and click the green `pebble-torch.pbw` button. Your phone should download and automatically install the file into your phone's Pebble app (or it may prompt you for which app to use to open the file, in which case you should select the Pebble app). You can then use the Pebble app on your phone to install the watchapp to your Pebble watch.
 
 ## Build
 
